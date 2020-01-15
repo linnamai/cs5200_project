@@ -1,0 +1,115 @@
+.wrapper {
+    padding: 10px;
+}
+
+.header-container {
+    background-color: #a50606;  /* Pleyt red */
+    height: 60px;
+    padding: 15px 20px;
+}
+
+.merchant-header-container {
+    background-color: royalblue;
+    height: 60px;
+    padding: 15px 20px;
+}
+
+.merchant-header-container a {
+    color: white;
+    margin-right: 20px;
+}
+
+.header-container a {
+    color: white;
+    margin-right: 20px;
+}
+
+.user-nav {
+    float: right;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+.panel {
+    padding: 10px;
+}
+
+/*-------------restaurant page---------------*/
+#restaurant-info {
+    width: 650px;
+    float: left;
+}
+
+#restaurant-operation {
+    float: right;
+}
+
+#menu-panel {
+    margin-top: 40px;
+}
+
+.pleyt-btn {
+    background-color: #a50606;
+    color: white;
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+#menu-table {
+    font-size: 11px;
+}
+
+#menu-table th{
+    min-width: 80px;
+}
+
+/*-------------create reservation page---------------*/
+.create-form input {
+    width: 250px;
+}
+
+.create-form li {
+    margin-top: 10px;
+    width: 500px;
+}
+
+.create-form {
+    min-width: 440px;
+}
+
+
+/*-------------reservations page---------------*/
+.reserv-card {
+    width: 350px;
+}
+
+.delete-btn {
+    background-color: #a50606;
+    color: white;
+    padding: 2px 8px;
+}
+
+#display-panel {
+    float:left;
+}
+
+#edit-panel {
+    margin-left: 400px;
+    margin-top: 34px;
+}
+
+.edit-form {
+    width: 250px;
+}
+
+.edit-submit-btn {
+    margin-left: 5px;
+}
+
+.create-form li input {
+    width: 150px;
+}
+
+
